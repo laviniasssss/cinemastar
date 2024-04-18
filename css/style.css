@@ -1,0 +1,60 @@
+body {
+
+    background-color: black;
+
+}
+
+.imagens {
+
+    width: 450px; 
+    height: 350px; 
+    margin-top: 30px;
+    border: 2px solid red;
+    border-radius: 10px;
+
+}
+
+.container {
+
+    margin-top: 1cm; /* para dar espaço da parte de cima do container de inserção de nome e cadeira */
+
+}
+
+.containerPrincipal { /* estilização do container principal */
+
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* sombra para o container */
+    border: 2px solid red;
+    border-radius: 10px;
+
+}
+
+label { /* definição da estilização da label como Nome: e Cadeira: */
+
+    color: rgb(255, 4, 4); 
+    display: flex;
+
+}
+
+h2 { /* Os titulos antes de escolher o combo e o filme */
+
+    margin-top: 30px;
+    color: red;
+
+}
+
+.table { /* corde fundo da tabela e cor do texto */
+
+    color: white;
+    background-color: black;
+}
+
+.table-bordered { /* estilização das bordas da tabela */
+    
+    border-color: red;
+
+}
+
+
